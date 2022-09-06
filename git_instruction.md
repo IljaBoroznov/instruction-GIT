@@ -20,9 +20,10 @@
 * При первом использовании необходимо представиться: 
 ввести в терминале 2 команды:
 ```
-git config --global user.name "<ваше_имя>"
-it config --global user.email "<адрес_почты@email.com>"
+git config --global user.name <ваше_имя>
+git config --global user.email <адрес_почты@email.com>
 ```
+
 ## 4. Инициализация репозитория
 
 * выбираем необходимую папку
